@@ -20,5 +20,5 @@ Un aplicativo web donde mediante Node.js y MySql se gestionan partidas de una ig
 
 # 📞✏️Contactame
 Si estás interesado en colaborar en proyectos o tienes alguna pregunta, no dudes en contactarme:
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) harolddavidherreraalvarez@gmail.com
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/harold-herrera-44bb34211/
+### ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) harolddavidherreraalvarez@gmail.com
+### ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/harold-herrera-44bb34211/
