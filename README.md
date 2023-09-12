@@ -22,5 +22,3 @@ Un aplicativo web donde mediante Node.js y MySql se gestionan partidas de una ig
 Si estás interesado en colaborar en proyectos o tienes alguna pregunta, no dudes en contactarme:
 - ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) harolddavidherreraalvarez@gmail.com
 - ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/harold-herrera-44bb34211/
-- Una aplicación web de gestión de ventas construida con html5 y JavasCript, permite a los usuarios crear, editar y eliminar ventas.
-[Ver proyecto](https://github.com/david2205/Gestor_Ventas.git)
