@@ -7,7 +7,7 @@
   - Desarrollo Ágil (Scrum)
   - DevOps
 
-# ✍😆Mi Portafolio
+# 💪🔥Mi Portafolio
 
 ### Aplicación Web de Gestión de Ventas ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 Una aplicación web de gestión de ventas construida con html5 y JavasCript, permite a los usuarios crear, editar y eliminar ventas.
@@ -20,7 +20,7 @@ El famoso algoritmo del museo britanico llevado a ruby donde se recorren nodos e
 ### Gestion Web Partidas Sacramentales ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 Un aplicativo web donde mediante Node.js y MySql se gestionan partidas de una iglesia(CRUD).
 [Ver proyecto](https://github.com/fabianf4/SistemaGestionInformacionS2Front.git)
-# ✍😆Mi Portafolio
+# 📞✏️Mi Portafolio
 
 Si estás interesado en colaborar en proyectos o tienes alguna pregunta, no dudes en contactarme:
 - ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) harolddavidherreraalvarez@gmail.com
